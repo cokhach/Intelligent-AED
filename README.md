@@ -1,5 +1,5 @@
 # Intelligent-AED
-This code is for publication namely "Deep Feature Learning for Sudden Cardiac Arrest Detection in Automated External Defibrillators" on Scientific Report, 2018
+This code is for publication namely "Deep Feature Learning for Sudden Cardiac Arrest Detection in Automated External Defibrillators" on Scientific Report, 2018. 
 Authors: Minh Tuan Nguyen, Binh Van Nguyen, and Kiseon Kim
 
 1) Download vfdb and cudb database from following addresses and put them into separated folders to preprocess the ECG signal.
